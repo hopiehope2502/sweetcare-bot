@@ -55,7 +55,7 @@ client.on('message', async (message) => {
 
     // Bienvenida
     if (!usuario.bienvenidaEnviada) {
-        await message.reply('¡Bienvenidos a SweetCare 💜!');
+        await message.reply('¡Bienvenidos a SweetCare 💜! Escribe menú para ver las opciones');
         usuario.bienvenidaEnviada = true;
     }
 
