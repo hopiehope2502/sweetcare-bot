@@ -11,7 +11,8 @@ const client = new Client({
 const usuarios = {};
 
 client.on('qr', (qr) => {
-    qrcode.generate(qr, { small: true });
+    console.log('🔗 Escanea el siguiente código QR:');
+    console.log(`https://api.qrserver.com/v1/create-qr-code/?data=${encodeURIComponent(qr)}`);
 });
 
 client.on('ready', () => {

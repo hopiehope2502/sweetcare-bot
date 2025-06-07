@@ -1,3 +1,7 @@
-2025/05/06-21:53:22.393 32a8 Reusing MANIFEST C:\Users\usuario_HP\sweetcare-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2025/05/06-21:53:22.394 32a8 Recovering log #3
-2025/05/06-21:53:22.395 32a8 Reusing old log C:\Users\usuario_HP\sweetcare-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2025/06/06-19:28:13.539 3570 Creating DB C:\Users\usuario_HP\sweetcare-bot\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2025/06/06-19:28:13.617 3570 Reusing MANIFEST C:\Users\usuario_HP\sweetcare-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/06/06-19:28:13.617 3570 Recovering log #3
+2025/06/06-19:28:13.619 3570 Reusing old log C:\Users\usuario_HP\sweetcare-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2025/06/06-19:30:14.088 23a4 Level-0 table #5: started
+2025/06/06-19:30:14.186 23a4 Level-0 table #5: 19794 bytes OK
+2025/06/06-19:30:14.214 23a4 Delete type=0 #3
